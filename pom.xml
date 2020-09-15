@@ -7,6 +7,7 @@
 	<packaging>jar</packaging>
 	<version>2.0-SNAPSHOT</version>
 	<name>Jeyzer Annotations</name>
+	<description>The Jeyzer annotations library. Documentation available at https://jeyzer.org/docs/shared-profile/annotations/</description>
 	
 	<build>
 		<plugins>
@@ -127,7 +128,6 @@
 	
 	<organization>
 		<name>Jeyzer SAS</name>
-		<description>The Jeyzer annotations library. Documentation available at https://jeyzer.org/docs/shared-profile/annotations/</description>
 		<url>https://jeyzer.org</url>
 	</organization>
 	<inceptionYear>2020</inceptionYear>
